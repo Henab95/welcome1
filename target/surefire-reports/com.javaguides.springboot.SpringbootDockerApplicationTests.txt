@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.javaguides.springboot.SpringbootDockerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 16.908 s - in com.javaguides.springboot.SpringbootDockerApplicationTests
